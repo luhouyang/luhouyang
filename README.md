@@ -24,7 +24,6 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true" />
   </picture>
   &nbsp;
-  &nbsp;
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhouyang&layout=donut&theme=dark"
