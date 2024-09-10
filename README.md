@@ -14,16 +14,15 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&theme=dark&hide_rank=true"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&hide_rank=true"
       media="(prefers-color-scheme: light)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&hide_rank=true" />
   </picture>
-  &nbsp;
   &nbsp;
   <picture>
     <source
@@ -36,6 +35,19 @@
     />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true" />
   </picture>
+  <br />
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com/?user=luhouyang&theme=dark"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=luhouyang"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://git.io/streak-stats?username=luhouyang" />
+  </picture>
+  
 </div>
 
 ## CodeForces
