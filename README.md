@@ -38,7 +38,7 @@
   <br />
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com/?user=luhouyang&theme=dark"
+      srcset="https://streak-stats.demolab.com/?user=luhouyang&theme=dark&ring=00fff2&fire=00fff2&currStreakLabel=00fff2"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
