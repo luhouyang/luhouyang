@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Any Interesting Projects**
 - 🤔 I’m looking for help with **Meaningful Open-Source Projects**
 - 💬 Ask me about **Everything except for relationship advice**
-- 📫 How to reach me: [**luhouyang@gmail.com**](luhouyang@gmail.com)
+- 📫 How to reach me: <a href="luhouyang@gmail.com"><b>luhouyang@gmail.com</b></a>
 - ⚡ Fun fact: **I Like Dry Food**, **I Like to Play the Piano**
 - 🕸️ Visit me at [**https://www.luhouyang.com**](https://www.luhouyang.com)
 
