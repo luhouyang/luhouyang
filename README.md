@@ -11,6 +11,8 @@
 
 ## GitHub Stats
 
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=luhouyang&color=00fff2)
+
 <div align="center">
   <picture>
     <source
