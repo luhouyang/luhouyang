@@ -17,36 +17,36 @@
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&theme=dark&hide_rank=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-<!--     <source
+    <source
       srcset="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&hide_rank=true"
       media="(prefers-color-scheme: light)"
-    /> -->
+    />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true&hide_rank=true" />
   </picture>
   &nbsp;
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhouyang&layout=donut&theme=dark"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-<!--     <source
+    <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luhouyang&layout=donut"
       media="(prefers-color-scheme: light)"
-    /> -->
+    />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=luhouyang&show_icons=true" />
   </picture>
   <br />
   <picture>
     <source
       srcset="https://streak-stats.demolab.com/?user=luhouyang&theme=dark&ring=00fff2&fire=00fff2&currStreakLabel=00fff2"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
-<!--     <source
+    <source
       srcset="https://streak-stats.demolab.com/?user=luhouyang"
       media="(prefers-color-scheme: light)"
-    /> -->
+    />
     <img src="https://git.io/streak-stats?username=luhouyang" />
   </picture>
   
@@ -62,12 +62,12 @@
 <picture>
   <source
     srcset="https://raw.githubusercontent.com/luhouyang/cf-stats/main/output/light_card.svg#gh-dark-mode-only"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference), (prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-<!--   <source
+  <source
     srcset="https://raw.githubusercontent.com/luhouyang/cf-stats/main/output/light_card.svg"
     media="(prefers-color-scheme: light)"
-  /> -->
+  />
   <img src="https://raw.githubusercontent.com/luhouyang/cf-stats/main/output/light_card.svg" />
 </picture>
 
