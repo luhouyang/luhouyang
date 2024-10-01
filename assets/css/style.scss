@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #fffee0;
+}
+::-webkit-scrollbar-thumb {
+  background: #007670;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #1c39bb;
+}
