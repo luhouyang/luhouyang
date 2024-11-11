@@ -52,6 +52,18 @@
   
 </div>
 
+## Certificates & Badges
+
+<div>
+  <a href="https://www.credly.com/badges/c9a78598-b764-4eb1-9a36-b674105df7f5/public_url">
+    <img height=200 src="https://drive.google.com/uc?export=view&id=1yftMkLGVbt1eTcZHKOJ4XPrdr7t4syFr"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/bcca4afd-4e6d-48b0-ba0f-56396003cac7/public_url">
+    <img height=200 src="https://drive.google.com/uc?export=view&id=1odR_Bi1GYJp9R_Tx-oJ88lXpohwUESXk"/>
+  </a>
+</div>
+
 ## CodeForces
 
 ![Lu Hou Yang's CodeForces Max Rating](https://raw.githubusercontent.com/luhouyang/cf-stats/main/output/max_rating.svg)
