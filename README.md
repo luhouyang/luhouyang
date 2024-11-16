@@ -1,9 +1,9 @@
 ## CS Student & Tech Education Enthusiast
 
-- 🔭 I’m currently working on **Workshop on GenAI & Autoregressive Models**, **Websites**
-- 🌱 I’m currently learning **Angular**, **GANs**, **Autoregressive Models**
-- 👯 I’m looking to collaborate on **Any Interesting Projects**
-- 🤔 I’m looking to contribute to **Meaningful Open-Source Projects**
+- 🔭 I’m currently working on **Micromouse**, **Android Apps**, **Websites**
+- 🌱 I’m currently learning **Angular**, **Data Analytics**, **Autoregressive Models**
+- 👯 I’m looking to collaborate on **Any Interesting Projects/Research**
+- 🤔 I’m looking to contribute to **Meaningful Open-Source Projects/Research**
 - 💬 Ask me about **Everything except for relationship advice**
 - 📫 How to reach me: <a href="luhouyang@gmail.com"><b>luhouyang@gmail.com</b></a>
 - ⚡ Fun fact: **I Like Dry Food**, **I Like to Play the Piano**
