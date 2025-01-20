@@ -35,7 +35,7 @@
       srcset="https://streak-stats.demolab.com/?user=luhouyang"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://git.io/streak-stats?username=luhouyang" />
+    <img height=200 src="https://git.io/streak-stats?username=luhouyang" />
   </picture>
   
 </div>
