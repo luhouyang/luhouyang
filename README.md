@@ -1,7 +1,7 @@
 ## CS Student & Tech Education Enthusiast
 
-- 🔭 I’m currently working on **Micromouse**, **Android Apps**, **Websites**
-- 🌱 I’m currently learning **Angular**, **Data Analytics**, **Autoregressive Models**
+- 🔭 I’m currently working on **Stuff**
+- 🌱 I’m currently learning **Angular**, **Small Language Models**
 - 👯 I’m looking to collaborate on **Any Interesting Projects/Research**
 - 🤔 I’m looking to contribute to **Meaningful Open-Source Projects/Research**
 - 💬 Ask me about **Everything except for relationship advice**
